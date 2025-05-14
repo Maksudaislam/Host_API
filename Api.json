@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "category": "mobile",
+    "name": "iPhone 15 Pro",
+    "price": 999.99,
+    "description": "Latest Apple iPhone with A17 Pro chip, 48MP camera, and titanium design",
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg",
+    "specifications": {
+      "storage": "256GB",
+      "color": "Natural Titanium",
+      "ram": "8GB"
+    }
+  },
+  {
+    "id": 2,
+    "category": "mobile",
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1199.99,
+    "description": "Premium Android flagship with S Pen and advanced AI features",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-1.jpg",
+    "specifications": {
+      "storage": "512GB",
+      "color": "Titanium Black",
+      "ram": "12GB"
+    }
+  },
+  {
+    "id": 3,
+    "category": "laptop",
+    "name": "MacBook Pro M3",
+    "price": 1999.99,
+    "description": "Powerful laptop with M3 Pro chip, perfect for professionals",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697311054290",
+    "specifications": {
+      "processor": "M3 Pro",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    }
+  },
+  {
+    "id": 4,
+    "category": "laptop",
+    "name": "Dell XPS 15",
+    "price": 1799.99,
+    "description": "Premium Windows laptop with InfinityEdge display",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/images2/products/notebooks/xps-notebooks/xps-15-9520/media-gallery/black/laptop-xps-15-9520-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "32GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 5,
+    "category": "mouse",
+    "name": "Logitech MX Master 3S",
+    "price": 99.99,
+    "description": "Premium wireless mouse with ultra-fast scrolling",
+    "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-graphite.png",
+    "specifications": {
+      "connectivity": "Bluetooth/Unifying",
+      "battery": "70 days",
+      "dpi": "8000"
+    }
+  },
+  {
+    "id": 6,
+    "category": "mouse",
+    "name": "Razer DeathAdder V3 Pro",
+    "price": 159.99,
+    "description": "Professional gaming mouse with Focus Pro 30K sensor",
+    "image": "https://assets3.razerzone.com/DEATHADDER_V3_PRO_WHITE_1500x1500_1.png",
+    "specifications": {
+      "connectivity": "Wireless",
+      "weight": "63g",
+      "dpi": "30000"
+    }
+  },
+  {
+    "id": 7,
+    "category": "mobile",
+    "name": "Google Pixel 8 Pro",
+    "price": 899.99,
+    "description": "Google's flagship with advanced AI camera features",
+    "image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-pro-1.jpg",
+    "specifications": {
+      "storage": "256GB",
+      "color": "Obsidian",
+      "ram": "12GB"
+    }
+  },
+  {
+    "id": 8,
+    "category": "laptop",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1699.99,
+    "description": "Business laptop with military-grade durability",
+    "image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-11-14-hero.png?context=bWFzdGVyfHJvb3R8MjM1NTEwfGltYWdlL3BuZ3xoYWMvaGYwLzEzNDUyNzU5NDU5MTE4LnBuZ3w5ZjM0YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD"
+    }
+  },
+  {
+    "id": 9,
+    "category": "mouse",
+    "name": "Microsoft Surface Precision Mouse",
+    "price": 79.99,
+    "description": "Premium mouse designed for productivity",
+    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3o?ver=5c31",
+    "specifications": {
+      "connectivity": "Bluetooth",
+      "battery": "3 months",
+      "buttons": "6 programmable"
+    }
+  },
+  {
+    "id": 10,
+    "category": "mobile",
+    "name": "OnePlus 12",
+    "price": 699.99,
