@@ -18,7 +18,7 @@
     "name": "Samsung Galaxy S24 Ultra",
     "price": 1199.99,
     "description": "Premium Android flagship with S Pen and advanced AI features",
-    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-1.jpg",
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570398_sd.jpg",
     "specifications": {
       "storage": "512GB",
       "color": "Titanium Black",
@@ -44,7 +44,7 @@
     "name": "Dell XPS 15",
     "price": 1799.99,
     "description": "Premium Windows laptop with InfinityEdge display",
-    "image": "https://i.dell.com/is/image/DellContent/content/dam/images2/products/notebooks/xps-notebooks/xps-15-9520/media-gallery/black/laptop-xps-15-9520-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+    "image": "https://m.media-amazon.com/images/I/91WgL3IbNIL.jpg",
     "specifications": {
       "processor": "Intel Core i9",
       "ram": "32GB",
@@ -70,7 +70,7 @@
     "name": "Razer DeathAdder V3 Pro",
     "price": 159.99,
     "description": "Professional gaming mouse with Focus Pro 30K sensor",
-    "image": "https://assets3.razerzone.com/DEATHADDER_V3_PRO_WHITE_1500x1500_1.png",
+    "image": "https://th.bing.com/th/id/R.19e4b11b7c2c40a328723b3accf9f8b6?rik=UOpI3uTzu3vCGg&pid=ImgRaw&r=0",
     "specifications": {
       "connectivity": "Wireless",
       "weight": "63g",
@@ -96,7 +96,7 @@
     "name": "Lenovo ThinkPad X1 Carbon",
     "price": 1699.99,
     "description": "Business laptop with military-grade durability",
-    "image": "https://www.lenovo.com/medias/lenovo-laptop-thinkpad-x1-carbon-gen-11-14-hero.png?context=bWFzdGVyfHJvb3R8MjM1NTEwfGltYWdlL3BuZ3xoYWMvaGYwLzEzNDUyNzU5NDU5MTE4LnBuZ3w5ZjM0YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5YzM5",
+    "image": "https://www.bing.com/images/search?q=lenovo+thinkpad+x1+carbon+jpg+pic&id=9A842C61A8ECB7502E195759A475B4F4BEA31CAF&FORM=IACFIR",
     "specifications": {
       "processor": "Intel Core i7",
       "ram": "16GB",
@@ -109,7 +109,7 @@
     "name": "Microsoft Surface Precision Mouse",
     "price": 79.99,
     "description": "Premium mouse designed for productivity",
-    "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3o?ver=5c31",
+    "image": "https://th.bing.com/th/id/OIP.7ThaxhrGElpzIv17oQIyqQHaFj?rs=1&pid=ImgDetMain",
     "specifications": {
       "connectivity": "Bluetooth",
       "battery": "3 months",
@@ -121,3 +121,4 @@
     "category": "mobile",
     "name": "OnePlus 12",
     "price": 699.99,
+     "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-2.jpg",}},
